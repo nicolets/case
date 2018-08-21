@@ -12,11 +12,11 @@ We use [Apollo](https://www.apollographql.com/docs/react/) as a GraphQL client. 
 You need a token to use the API. We will give you a token that you need to place in the [config file](https://github.com/alvalabs/case/blob/master/src/config.js).
 
 ## Get started
-1. Clone this repo: `git@github.com:alvalabs/case.git`
+1. Clone this repo: `git clone git@github.com:alvalabs/case.git`
 
 2. Run `npm install` to install required packages.
 
-3. Insert your given token in the config file.
+3. Insert the token you have received in the config file.
 
 4. Start the application with `npm start`
 
